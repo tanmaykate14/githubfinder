@@ -29,7 +29,7 @@ return(
 
 const userStyle = {
   display : "grid",
-  gridTemplateColumns: "repeat(3, 1fr)",
+  gridTemplateColumns: "repeat(10, 1fr)",
   gridGap: "1rem"
 
 }
