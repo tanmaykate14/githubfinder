@@ -249,7 +249,7 @@ img {
 .bg-primary,
 .badge-primary,
 .alert-primary {
-  background: var(--primary-color);
+  background:skyblue;
   color: #fff;
 }
 
@@ -273,7 +273,7 @@ img {
 .bg-danger,
 .badge-danger,
 .alert-danger {
-  background: var(--danger-color);
+  background: red;
   color: #fff;
 }
 

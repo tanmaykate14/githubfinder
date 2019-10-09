@@ -11,10 +11,10 @@ const Navbar = ({icon,title}) => {
         return (
             
             <nav className = "navbar bg-primary">
-             <h1>
+            <a href = "/"><h1>
              <i className={icon}></i>
                 {title} 
-                 </h1>   
+                 </h1>   </a> 
                  <ul>
                      <li>
 <Link to = "/">Home</Link>
